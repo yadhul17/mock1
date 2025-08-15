@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Downloads/MOCK1/design"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "mock1"
+	}
+}
